@@ -23,7 +23,7 @@ This project is a fake review detection system that leverages machine learning a
 
 1.  **Clone the Repository:**
     ```bash
-    [git clone https://your-repository-url.git](https://github.com/professorUsama/fake-review-prediction.git)
+    https://github.com/professorUsama/fake-review-prediction.git
     ```
 
 2.  **Backend (Django):**
